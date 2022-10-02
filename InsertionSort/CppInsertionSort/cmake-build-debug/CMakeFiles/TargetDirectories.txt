@@ -1,0 +1,3 @@
+/Users/Ivan/CLionProjects/insertSortCpp/cmake-build-debug/CMakeFiles/insertSortCpp.dir
+/Users/Ivan/CLionProjects/insertSortCpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Ivan/CLionProjects/insertSortCpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
